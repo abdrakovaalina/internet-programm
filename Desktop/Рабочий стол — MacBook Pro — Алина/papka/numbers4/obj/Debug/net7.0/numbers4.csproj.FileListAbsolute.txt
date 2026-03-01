@@ -1,0 +1,30 @@
+/Users/alinaabdrakova/Desktop/papka/numbers4/bin/Debug/net7.0/numbers4
+/Users/alinaabdrakova/Desktop/papka/numbers4/bin/Debug/net7.0/numbers4.deps.json
+/Users/alinaabdrakova/Desktop/papka/numbers4/bin/Debug/net7.0/numbers4.runtimeconfig.json
+/Users/alinaabdrakova/Desktop/papka/numbers4/bin/Debug/net7.0/numbers4.dll
+/Users/alinaabdrakova/Desktop/papka/numbers4/bin/Debug/net7.0/numbers4.pdb
+/Users/alinaabdrakova/Desktop/papka/numbers4/obj/Debug/net7.0/numbers4.csproj.AssemblyReference.cache
+/Users/alinaabdrakova/Desktop/papka/numbers4/obj/Debug/net7.0/numbers4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinaabdrakova/Desktop/papka/numbers4/obj/Debug/net7.0/numbers4.AssemblyInfoInputs.cache
+/Users/alinaabdrakova/Desktop/papka/numbers4/obj/Debug/net7.0/numbers4.AssemblyInfo.cs
+/Users/alinaabdrakova/Desktop/papka/numbers4/obj/Debug/net7.0/numbers4.csproj.CoreCompileInputs.cache
+/Users/alinaabdrakova/Desktop/papka/numbers4/obj/Debug/net7.0/numbers4.dll
+/Users/alinaabdrakova/Desktop/papka/numbers4/obj/Debug/net7.0/refint/numbers4.dll
+/Users/alinaabdrakova/Desktop/papka/numbers4/obj/Debug/net7.0/numbers4.pdb
+/Users/alinaabdrakova/Desktop/papka/numbers4/obj/Debug/net7.0/numbers4.genruntimeconfig.cache
+/Users/alinaabdrakova/Desktop/papka/numbers4/obj/Debug/net7.0/ref/numbers4.dll
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/bin/Debug/net7.0/numbers4
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/bin/Debug/net7.0/numbers4.deps.json
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/bin/Debug/net7.0/numbers4.runtimeconfig.json
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/bin/Debug/net7.0/numbers4.dll
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/bin/Debug/net7.0/numbers4.pdb
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/obj/Debug/net7.0/numbers4.csproj.AssemblyReference.cache
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/obj/Debug/net7.0/numbers4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/obj/Debug/net7.0/numbers4.AssemblyInfoInputs.cache
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/obj/Debug/net7.0/numbers4.AssemblyInfo.cs
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/obj/Debug/net7.0/numbers4.csproj.CoreCompileInputs.cache
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/obj/Debug/net7.0/numbers4.dll
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/obj/Debug/net7.0/refint/numbers4.dll
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/obj/Debug/net7.0/numbers4.pdb
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/obj/Debug/net7.0/numbers4.genruntimeconfig.cache
+/Users/alinaabdrakova/Desktop/Рабочий стол — MacBook Pro — Алина/papka/numbers4/obj/Debug/net7.0/ref/numbers4.dll
